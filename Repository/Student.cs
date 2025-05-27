@@ -8,9 +8,9 @@ namespace Repository
         public string Surname;
 
         public byte age;
-    }
 
-    public Student(string surname, string name, byte age)
+
+        public Student(string surname, string name, byte age)
 
         {
             Name = name;
@@ -21,10 +21,5 @@ namespace Repository
 
         }
 
-
-        void Show()
-        {
-            Student student = new Student("John", 20);
-        }
-
     }
+}
