@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\behru\\OneDrive\\Desktop\\c#'\\Repository\\Repository\\Repository.csproj": {}
+    "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\behru\\OneDrive\\Desktop\\c#'\\Repository\\Repository\\Repository.csproj": {
+    "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\behru\\OneDrive\\Desktop\\c#'\\Repository\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\behru\\OneDrive\\Desktop\\c#'\\Repository\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\behru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\behru\\OneDrive\\Desktop\\c#'\\Repository\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

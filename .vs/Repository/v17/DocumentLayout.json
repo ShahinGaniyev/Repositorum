@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\behru\\OneDrive\\Desktop\\c#\u0027\\Repository\\",
+  "WorkspaceRootPath": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|c:\\users\\behru\\onedrive\\desktop\\c#\u0027\\repository\\repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|solutionrelative:repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|c:\\users\\behru\\onedrive\\desktop\\repository\\repository\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|solutionrelative:repository\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|c:\\users\\behru\\onedrive\\desktop\\c#\u0027\\repository\\repository\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|c:\\users\\behru\\onedrive\\desktop\\repository\\repository\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|solutionrelative:repository\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|c:\\users\\behru\\onedrive\\desktop\\repository\\repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF21912-3763-4182-BE03-569A8DED9238}|Repository\\Repository.csproj|solutionrelative:repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,24 +48,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\behru\\OneDrive\\Desktop\\c#\u0027\\Repository\\Repository\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\Student.cs",
               "RelativeDocumentMoniker": "Repository\\Student.cs",
-              "ToolTip": "C:\\Users\\behru\\OneDrive\\Desktop\\c#\u0027\\Repository\\Repository\\Student.cs",
+              "ToolTip": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\Student.cs",
               "RelativeToolTip": "Repository\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:35:37.632Z",
+              "WhenOpened": "2025-05-30T13:18:01.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Repository\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\BankAccount.cs",
+              "RelativeToolTip": "Repository\\BankAccount.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:16:02.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\behru\\OneDrive\\Desktop\\c#\u0027\\Repository\\Repository\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\Program.cs",
               "RelativeDocumentMoniker": "Repository\\Program.cs",
-              "ToolTip": "C:\\Users\\behru\\OneDrive\\Desktop\\c#\u0027\\Repository\\Repository\\Program.cs",
+              "ToolTip": "C:\\Users\\behru\\OneDrive\\Desktop\\Repository\\Repository\\Program.cs",
               "RelativeToolTip": "Repository\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T23:34:42.268Z",
               "EditorCaption": ""
