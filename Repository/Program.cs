@@ -10,14 +10,32 @@
 //Book book = new Book();
 
 
+//using Repository.NewFolder;
+//Print();
+//GC.Collect();
+
+//void Print()
+//{
+//    Car car = new("Toyota", "Baku", 9999);
+
+//}
 using Repository;
-Print();
-GC.Collect();
 
-void Print()
+
+try
 {
-    Car car = new("Toyota", "Baku", 9999);
+    StudentGrade student = new StudentGrade();
+    student.Name = "Alicja";
+    student.Grade = 95;
+    Console.WriteLine($"Name:{student.Name}, Grade:{student.Grade}");
 
+    // ashagi hisseni chatgpt verdi
+
+    student.Grade = -10;
 }
-
-
+catch (ArgumentOutOfRangeException ex)
+{
+    {
+        Console.WriteLine($"Error: {ex.Message}");
+    }
+}
